@@ -12,6 +12,13 @@ class ResultScreen
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor:
+          const Color.fromARGB(
+            255,
+            244,
+            245,
+            246,
+          ),
       appBar: AppBar(),
       body: Center(
         child: Text(
