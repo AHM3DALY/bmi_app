@@ -66,7 +66,7 @@ class _HomeScreenState
                 ),
               ),
             ),
-            SizedBox(height: 16),
+            SizedBox(height: 10),
             CalculateButton(
               bmiInputModel:
                   bmiInputModel,
